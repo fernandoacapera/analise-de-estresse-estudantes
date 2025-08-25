@@ -1,4 +1,4 @@
-#Análise de Estresse em Estudantes
+# Análise de Estresse em Estudantes
 
 Este projeto busca analisar os fatores que mais influenciam o nível de estresse em estudantes, utilizando um conjunto de dados do Kaggle. O objetivo é identificar as variáveis mais correlacionadas com o nível de estresse e entender como cada uma delas impacta esse fator.
 
